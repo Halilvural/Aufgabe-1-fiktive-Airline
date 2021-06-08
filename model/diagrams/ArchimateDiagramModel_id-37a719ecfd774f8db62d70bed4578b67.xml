@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-37a719ecfd774f8db62d70bed4578b67">
+    id="id-37a719ecfd774f8db62d70bed4578b67"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-746ee122f3684b608dc4bedf8d5c06f0"
@@ -454,7 +455,7 @@
     </sourceConnections>
     <bounds
         x="167"
-        y="600"
+        y="612"
         width="217"
         height="151"/>
     <children
